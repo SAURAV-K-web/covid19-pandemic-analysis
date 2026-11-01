@@ -67,6 +67,17 @@ Historical analysis dataset:
 
 The project contains 11 visualization charts generated using Matplotlib.
 
+## Sample Visualizations
+
+### Historical COVID-19 Cases
+
+![Historical COVID-19 Cases](visualizations/historical_daily_trend.png)
+
+### Daily New Confirmed Cases
+
+![Daily New Confirmed Cases](visualizations/historical_new_cases_trend.png)
+
+
 ### Country-Level Analysis
 
 - `top_10_country_cases.png` — Top 10 countries by confirmed cases.
